@@ -1,0 +1,102 @@
+[
+    {
+        "text": "[ess]",
+        "confidence": 25,
+        "box": [
+            65,
+            52,
+            32,
+            15
+        ]
+    },
+    {
+        "text": "Camaldoli",
+        "confidence": 80,
+        "box": [
+            596,
+            160,
+            53,
+            9
+        ]
+    },
+    {
+        "text": "~",
+        "confidence": 39,
+        "box": [
+            136,
+            188,
+            12,
+            2
+        ]
+    },
+    {
+        "text": "fa]",
+        "confidence": 27,
+        "box": [
+            249,
+            194,
+            25,
+            13
+        ]
+    },
+    {
+        "text": "\u2018ae",
+        "confidence": 26,
+        "box": [
+            620,
+            186,
+            22,
+            13
+        ]
+    },
+    {
+        "text": "\u2014",
+        "confidence": 60,
+        "box": [
+            63,
+            241,
+            17,
+            1
+        ]
+    },
+    {
+        "text": "G\u00e9nes",
+        "confidence": 92,
+        "box": [
+            287,
+            222,
+            67,
+            20
+        ]
+    },
+    {
+        "text": "Te)",
+        "confidence": 44,
+        "box": [
+            61,
+            243,
+            21,
+            13
+        ]
+    },
+    {
+        "text": ":",
+        "confidence": 52,
+        "box": [
+            516,
+            257,
+            2,
+            2
+        ]
+    },
+    {
+        "text": "a",
+        "confidence": 57,
+        "box": [
+            518,
+            391,
+            25,
+            15
+        ]
+    }
+]
